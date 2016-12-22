@@ -4,6 +4,7 @@ Fun stuff to automate when coworkers leave their PCs unlocked
 Within are various scripts which can be a lot of fun when automated through Windows Task Scheduler.
 
 Can be used individually and are also a lot of fun when used together.
+Tested on Windows 7 and 10.
 
 Usage recommendation:
 
