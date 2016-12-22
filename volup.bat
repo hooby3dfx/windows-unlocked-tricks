@@ -1,3 +1,4 @@
+rem from http://stackoverflow.com/questions/22893315/how-to-i-control-my-computer-master-volume-by-batch-file
 @if (@a==@b) @end /*
  
 :: batch portion
