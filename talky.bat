@@ -1,4 +1,5 @@
-set text= I love cheese and it makes me so happy. Say master blaster runs gas town. 
+rem modified from http://stackoverflow.com/a/21531271/969649
+set text= I love drinking out of cups
 echo ' > "talky.vbs"
 echo set speech = Wscript.CreateObject("SAPI.spVoice") >> "talky.vbs"
 echo speech.speak "%text%" >> "talky.vbs"
