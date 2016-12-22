@@ -1,3 +1,4 @@
+rem from http://stackoverflow.com/questions/23313709/play-invisible-music-with-batch-file
 @echo off
 set "file=C:\Windows\Media\onestop.mid"
 ( echo Set Sound = CreateObject("WMPlayer.OCX.7"^)
