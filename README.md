@@ -6,7 +6,7 @@ Within are various scripts which can be a lot of fun when automated through Wind
 Can be used individually and are also a lot of fun when used together.
 Tested on Windows 7 and 10.
 
-Usage recommendation:
+## Usage recommendation:
 
 1. Wait until coworker is away from desk for 10+ minutes, and computer is unlocked
 2. Find a random folder that is already on their C drive a few directories deep
@@ -33,3 +33,6 @@ Usage recommendation:
 8. Close all opened folders
 9. Remove USB drive/Clear notepad history/Close folders opened/etc
 10. Lock the computer to do them a favor.
+
+## More
+This looks like it would fit in nicely to the suite: http://www.nirsoft.net/utils/nircmd.html
